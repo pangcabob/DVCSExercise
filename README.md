@@ -7,10 +7,10 @@ Supply or identify the following short answer/multiple-choice questions. Place y
 4. List the four views that you can change to under View.
 5. List the two items you can edit under Repository → Repository settings ...
 6. A remote repository is ________.
-   1- A code repository that is on your local computer.
-   2- A database that is seldom used/accessed by an application (typically, a dormant web application).
-   3) A code repository that is not on your local computer.
-   4) A code repository that is kept in a location outside the continental USA.
+   1. A code repository that is on your local computer.
+   2. A database that is seldom used/accessed by an application (typically, a dormant web application).
+   3. A code repository that is not on your local computer.
+   4. A code repository that is kept in a location outside the continental USA.
 7. local repository is ________.
    1. A code repository that is on your local computer.
    2. A database whose connection string specifies data-source=".".
