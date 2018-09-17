@@ -2,12 +2,12 @@
 Supply or identify the following short answer/multiple-choice questions. Place your answers in the ReadMe.md file of your repository for this exercise. Clearly identify your question number and your answer.
 
 1. Under which menu item is the Show in Explorer option. ____________________________
-Under which menu item can you Add or Clone repositories. ____________________________
-Under which menu item can you open your Command Prompt. ____________________________
-List the four views that you can change to under View.
-List the two items you can edit under Repository → Repository settings ...
-A remote repository is ________.
-A code repository that is on your local computer.
+2. Under which menu item can you Add or Clone repositories. ____________________________
+3. Under which menu item can you open your Command Prompt. ____________________________
+4. List the four views that you can change to under View.
+5. List the two items you can edit under Repository → Repository settings ...
+6. A remote repository is ________.
+   1. A code repository that is on your local computer.
 A database that is seldom used/accessed by an application (typically, a dormant web application).
 A code repository that is not on your local computer.
 A code repository that is kept in a location outside the continental USA.
