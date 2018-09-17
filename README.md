@@ -5,9 +5,9 @@ Supply or identify the following short answer/multiple-choice questions. Place y
 2. Under which menu item can you Add or Clone repositories. ____File________________________
 3. Under which menu item can you open your Command Prompt. _____Repository_______________________
 4. List the four views that you can change to under View.
-      ____changes, history, Repository list, Branches list
+      ______changes, history, Repository list, Branches list
 5. List the two items you can edit under Repository → Repository settings ...
-      ___Remote and ignore files
+      _____Remote and ignore files
 6. A remote repository is ___3_____.
    1. A code repository that is on your local computer.
    2. A database that is seldom used/accessed by an application (typically, a dormant web application).
@@ -23,7 +23,7 @@ Supply or identify the following short answer/multiple-choice questions. Place y
    2. downstream
    3. origin
    4. clone
-9. When you make a local copy of a GitHub repository, you are effectively ____2__ that repository.
+9. When you make a local copy of a GitHub repository, you are effectively that repository. _____2
    1. forking
    2. cloning
    3. copying
