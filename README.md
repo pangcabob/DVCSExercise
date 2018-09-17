@@ -1,12 +1,13 @@
 # Short Answer & Multiple Choice
 Supply or identify the following short answer/multiple-choice questions. Place your answers in the ReadMe.md file of your repository for this exercise. Clearly identify your question number and your answer.
 
-1. Under which menu item is the Show in Explorer option. ____________________________
+1. Under which menu item is the Show in Explorer option. _______Repository_____________________
 2. Under which menu item can you Add or Clone repositories. ____File________________________
-3. Under which menu item can you open your Command Prompt. ____________________________
+3. Under which menu item can you open your Command Prompt. _____Repository_______________________
 4. List the four views that you can change to under View.
-
+      changes, history, Repository list, Branches list
 5. List the two items you can edit under Repository → Repository settings ...
+      Remote and ignore files
 6. A remote repository is ___3_____.
    1. A code repository that is on your local computer.
    2. A database that is seldom used/accessed by an application (typically, a dormant web application).
