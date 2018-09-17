@@ -5,7 +5,7 @@ Supply or identify the following short answer/multiple-choice questions. Place y
 2. Under which menu item can you Add or Clone repositories. ____File________________________
 3. Under which menu item can you open your Command Prompt. _____Repository_______________________
 4. List the four views that you can change to under View.
-      changes, history, Repository list, Branches list
+      Answer. changes, history, Repository list, Branches list
 5. List the two items you can edit under Repository → Repository settings ...
       Remote and ignore files
 6. A remote repository is ___3_____.
