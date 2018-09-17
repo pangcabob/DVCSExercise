@@ -1,13 +1,13 @@
 # Short Answer & Multiple Choice
 Supply or identify the following short answer/multiple-choice questions. Place your answers in the ReadMe.md file of your repository for this exercise. Clearly identify your question number and your answer.
 
-1. Under which menu item is the Show in Explorer option. _______Repository_____________________
+1. Under which menu item is the Show in Explorer option. ________Repository_____________________
 2. Under which menu item can you Add or Clone repositories. ____File________________________
 3. Under which menu item can you open your Command Prompt. _____Repository_______________________
 4. List the four views that you can change to under View.
-      Answer. changes, history, Repository list, Branches list
+      ____changes, history, Repository list, Branches list
 5. List the two items you can edit under Repository → Repository settings ...
-      Remote and ignore files
+      ___Remote and ignore files
 6. A remote repository is ___3_____.
    1. A code repository that is on your local computer.
    2. A database that is seldom used/accessed by an application (typically, a dormant web application).
@@ -39,27 +39,27 @@ Supply or identify the following short answer/multiple-choice questions. Place y
     2. git pull and then git fetch
     3. git get and then git pull
     4. git fetch and then git pull
-12. Which command is used to create a git repository? _4_
+12. Which command is used to create a git repository? __4_
       1. git repo
       2. git pull
       3. git clone
       4. git init
-13. Which command is used to stage files for a commit? _2_
+13. Which command is used to stage files for a commit? ___2_
       1. git pull
       2. git add .
       3. git push
       4. git init
-14. Which of the following best describes what it means to stage files for a commit? _2_
+14. Which of the following best describes what it means to stage files for a commit? ___2_
       1. To stage files for a commit means to remove them from tracking in preparation for a commit.
       2. Staging files for a commit means to identify files that may be new, modified, or deleted and marking those as being ready to commit.
       3. Staging files for a commit means that the files are stashed so that they will be remembered after performing a pull and push.
       4. To stage files for a commit means to change the files prior to committing them.
-15. Which command saves a snapshot of the changes to files in the repository? _1_
+15. Which command saves a snapshot of the changes to files in the repository? ___1_
       1. git commit -m "Commit message"
       2. git save -m "Save message"
       3. git push
       4. git pull
-16. Which of the following best describes what git commit does? _3_
+16. Which of the following best describes what git commit does? ___3_
       1. Confirms the deletion of files in the repository history.
       2. Prepare files for being added (tracked) in the repository.
       3. Record a snapshot of the changes that have happened in the repository since the last commit.
