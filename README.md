@@ -9,23 +9,23 @@ Supply or identify the following short answer/multiple-choice questions. Place y
 6. A remote repository is ________.
    1. A code repository that is on your local computer.
    2. A database that is seldom used/accessed by an application (typically, a dormant web application).
-A code repository that is not on your local computer.
-A code repository that is kept in a location outside the continental USA.
-A local repository is ________.
-A code repository that is on your local computer.
-A database whose connection string specifies data-source=".".
-A code repository that is not on your local computer.
-A code repository that is kept in a location inside the continental USA.
-The remote repository that you synchronize with referred to as _________.
-upstream
-downstream
-origin
-clone
-When you make a local copy of a GitHub repository, you are effectively ______ that repository.
-forking
-cloning
-copying
-replacing
+   3. A code repository that is not on your local computer.
+   4. A code repository that is kept in a location outside the continental USA.
+7. local repository is ________.
+   1. A code repository that is on your local computer.
+   2. A database whose connection string specifies data-source=".".
+   3. A code repository that is not on your local computer.
+   4. A code repository that is kept in a location inside the continental USA.
+8. The remote repository that you synchronize with referred to as _________.
+   1. upstream
+   2. downstream
+   3. origin
+   4. clone
+9. When you make a local copy of a GitHub repository, you are effectively ______ that repository.
+   1. forking
+   2. cloning
+   3. copying
+   4. replacing
 What is the order of Git tasks that are done when performing a sync in GitHub Desktop?
 push, fetch, pull
 fetch, merge, push
