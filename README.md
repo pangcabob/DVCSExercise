@@ -1,5 +1,5 @@
 # Short Answer & Multiple Choice
-Supply or identify the following short answer/multiple-choice questions. Place your answers in the ReadMe.md file of your repository for this exercise. Clearly identify your question number and your answer.
+1) Supply or identify the following short answer/multiple-choice questions. Place your answers in the ReadMe.md file of your repository for this exercise. Clearly identify your question number and your answer.
 
 Under which menu item is the Show in Explorer option. ____________________________
 Under which menu item can you Add or Clone repositories. ____________________________
