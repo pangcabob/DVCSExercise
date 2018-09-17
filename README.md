@@ -18,7 +18,7 @@ Supply or identify the following short answer/multiple-choice questions. Place y
    2. A database whose connection string specifies data-source=".".
    3. A code repository that is not on your local computer.
    4. A code repository that is kept in a location inside the continental USA.
-8. The remote repository that you synchronize with referred to as ___1______.
+8. The remote repository that you synchronize with referred to as ___3______.
    1. upstream
    2. downstream
    3. origin
