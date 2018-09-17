@@ -27,10 +27,12 @@ Supply or identify the following short answer/multiple-choice questions. Place y
    2. cloning
    3. copying
    4. replacing
+   
 10. What is the order of Git tasks that are done when performing a sync in GitHub Desktop? __2__
    1. push, fetch, pull
    2. fetch, merge, push
    3. push, pull, clean
+   
 11. The git pull command is equivalent to ___1____.
    1. git fetch and then git merge
    2. git pull and then git fetch
